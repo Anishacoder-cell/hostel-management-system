@@ -1,0 +1,24 @@
+============================================
+          HOSTEL MANAGEMENT SYSTEM
+              PAYMENT RECEIPT
+============================================
+
+Receipt Number: PAY002
+Payment Date: 2026-11-09
+
+STUDENT DETAILS
+--------------------------------------------
+Student Name: sarah jeo
+Student ID: STU001
+Course: BIT
+
+PAYMENT DETAILS
+--------------------------------------------
+Amount Paid: UGX 200,000.00
+Payment Method: Cash
+Description: December hostel fees
+
+============================================
+          PAYMENT RECEIVED SUCCESSFULLY
+          Thank you for your payment!
+============================================
