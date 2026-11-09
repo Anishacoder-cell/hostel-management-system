@@ -1,1 +1,2 @@
 STU001|sarah jeo|sarah@gmail.com|0789456321|BIT
+STU002|ROSE MARY|rosemary@gmail.com|0789654321|Business Administration
